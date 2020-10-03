@@ -20,6 +20,7 @@ You may navigate to each block of content individually by clicking the elements 
 ## Credits
 Credit to Horiseon for creating this page and allowing me to refactor the code to include accessibility standards!
 Credit and thanks to Edward Apostol as well for being there to help me troubleshoot issues related to the background image not loading correctly!
+Credit and thanks as well to Edward Apostol, German Arcila and Anas Qazi for helping me display badges correctly in this README!
 
 ## License
 Please credit me if you change my code! Thank you :)
