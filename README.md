@@ -25,7 +25,7 @@ Credit and thanks to Edward Apostol as well for being there to help me troublesh
 Please credit me if you change my code! Thank you :)
 
 ## Badges
-https://img.shields.io/github/followers/dazrin?label=Follow&style=social
+![shield](https://img.shields.io/github/followers/dazrin?label=Follow&style=social)
 
 ## Contributing
 
