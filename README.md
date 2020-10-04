@@ -13,7 +13,7 @@ No installation required!
 Simply click the link below to access the page!
 https://dazrin.github.io/CodeRefactor/
 
-![alt text](https://imgur.com/a/Pf4gUsE
+![alt text](https://imgur.com/a/Pf4gUsE)
 
 ## Usage
 <instructions>
