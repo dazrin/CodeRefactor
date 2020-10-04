@@ -13,7 +13,7 @@ No installation required!
 Simply click the link below to access the page!
 https://dazrin.github.io/CodeRefactor/
 
-![alt text](https://imgur.com/a/Pf4gUsE)
+![Screenshot](assets\images\dazrin.github.io-HoriseonHomepage.jpeg)
 
 ## Usage
 <instructions>
