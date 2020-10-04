@@ -13,6 +13,8 @@ No installation required!
 Simply click the link below to access the page!
 https://dazrin.github.io/CodeRefactor/
 
+![Screenshot](assets\images\dazrin.github.io-HoriseonHomepage.jpeg)
+
 ## Usage
 <instructions>
 You may navigate to each block of content individually by clicking the elements on the navigation bar located at the top of the page
@@ -20,12 +22,13 @@ You may navigate to each block of content individually by clicking the elements 
 ## Credits
 Credit to Horiseon for creating this page and allowing me to refactor the code to include accessibility standards!
 Credit and thanks to Edward Apostol as well for being there to help me troubleshoot issues related to the background image not loading correctly!
+Credit and thanks as well to Edward Apostol, German Arcila and Anas Qazi for helping me display badges correctly in this README!
 
 ## License
 Please credit me if you change my code! Thank you :)
 
 ## Badges
-https://img.shields.io/github/followers/dazrin?label=Follow&style=social
+![shield](https://img.shields.io/github/followers/dazrin?label=Follow&style=social)
 
 ## Contributing
 
@@ -157,5 +160,4 @@ enforcement ladder](https://github.com/mozilla/diversity).
 For answers to common questions about this code of conduct, see the FAQ at
 https://www.contributor-covenant.org/faq. Translations are available at
 https://www.contributor-covenant.org/translations.
-
 
