@@ -13,6 +13,8 @@ No installation required!
 Simply click the link below to access the page!
 https://dazrin.github.io/CodeRefactor/
 
+![image](https://imgur.com/undefined)
+
 ## Usage
 <instructions>
 You may navigate to each block of content individually by clicking the elements on the navigation bar located at the top of the page
